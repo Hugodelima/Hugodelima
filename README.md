@@ -6,7 +6,7 @@
  #
 ![Hugo GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugodelima&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugodelima&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugodelima&layout=compact)](https://github.com/Hugodelima/github-readme-stats)
 
 ### Tecnologias que eu utilizo:
  [![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
