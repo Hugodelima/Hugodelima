@@ -1,12 +1,11 @@
 ![banner-github](https://user-images.githubusercontent.com/86114583/209675603-02962bc1-d5b8-4c43-8d3a-fb10e874f32e.png)
 
-## Olá! Eu sou o Hugo.
-<h1 align="left">Hi there!👾</h1>
+##
+<h1 align="left">Hello, my name is Hugo!👾</h1>
 
  > My name is Hugo, I live in Brazil.<br>I am a student of IFMS and I am trying to improve my knowledge everytime!
 
 <h2 align="left">📨  Contact Me</h2>
-<div align="left">
 <a href="https://www.linkedin.com/in/igorviniciussantana" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="linkedin logo"  />
 </a>
@@ -18,7 +17,7 @@
 ###
 <h2 align="left">👇🏼 I know...</h2>
 
-### Tecnologias que eu utilizo:
+### Technologies I use:
  [![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
  [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
  [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
@@ -31,6 +30,7 @@
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"  alt="figma logo"  />
 </div>
 
+<h2 align="left">  GitHub Status</h2>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugodelima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 
