@@ -6,7 +6,7 @@
  > My name is Hugo, I live in Brazil.<br>I am a student of IFMS and I am trying to improve my knowledge everytime!
 
 <h2 align="left">📨  Contact Me</h2>
-<a href="https://www.linkedin.com/in/igorviniciussantana" target="_blank">
+<a href="https://www.linkedin.com/in/hugo-rodrigues00001" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="linkedin logo"  />
 </a>
 <a href="hugo.lima2@estudante.ifms.edu.br" target="_blank">
