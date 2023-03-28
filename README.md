@@ -1,5 +1,8 @@
-![banner-github](https://user-images.githubusercontent.com/86114583/209675603-02962bc1-d5b8-4c43-8d3a-fb10e874f32e.png)
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/110146009/228102204-641aec67-54e0-4c5d-9df5-2264f62bf331.png" width="530px" >
+</div>
 
+![Header][https://user-images.githubusercontent.com/110146009/228102204-641aec67-54e0-4c5d-9df5-2264f62bf331.png]
 ##
 <h1 align="left">Hello, my name is Hugo!👾</h1>
 
