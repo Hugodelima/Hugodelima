@@ -11,12 +11,8 @@
  > My name is Hugo, I live in Brazil.<br>I am a student of IFMS and I am trying to improve my knowledge everytime!
 
 <h2 align="left">📁  Contact Me</h2>
-<a href="https://www.linkedin.com/in/hugo-rodrigues00001" target="_blank">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="linkedin logo"  />
-</a>
-<a href="hugo.lima2@estudante.ifms.edu.br" target="_blank">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"  />
-</a>
+  <a href = "mailto:hugo.lima2@estudante.ifms.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/hugo-rodrigues00001" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ###
