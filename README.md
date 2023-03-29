@@ -4,7 +4,6 @@
 
 
 
-
 ##
 <h1 align="left">Welcome to my profile🥷</h1>
 
@@ -33,7 +32,10 @@
   </div>
 
 ###
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugodelima&layout=compact&langs_count=7&theme=dracula"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugodelima&theme=gruvbox)](https://github.com/Hugodelima/Hugodelima/blob/main/README.md)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugodelima&layout=compact&langs_count=7&theme=dracula"/>
+
+
 </div>
 <h3>✏️ | Design</h3>
 <div align="left">
