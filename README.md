@@ -51,7 +51,7 @@
 
   ![Snake animation](https://github.com/Hugodelima/Hugodelima/blob/output/github-contribution-grid-snake.svg)
  
-![snake_gif](https://github.com/thiagodevgaming/thiagodevgaming/blob/output/github-contribution-grid-snake.svg)
+![snake_gif](https://github.com/Hugodelima/Hugodelima/blob/output/github-contribution-grid-snake.svg)
 
 
 
